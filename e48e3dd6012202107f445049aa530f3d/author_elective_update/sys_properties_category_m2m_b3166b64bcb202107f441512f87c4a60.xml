@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Loaner Request">70e363e0bcb202107f441512f87c4a62</category>
+        <order>300</order>
+        <property display_value="x_cdltd_loaner_req.overdue.remindtime" name="x_cdltd_loaner_req.overdue.remindtime">d7152b20bcb202107f441512f87c4a09</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 03:22:43</sys_created_on>
+        <sys_id>b3166b64bcb202107f441512f87c4a60</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.overdue.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_b3166b64bcb202107f441512f87c4a60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 03:23:19</sys_updated_on>
+    </sys_properties_category_m2m>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</application>
+        <file_path/>
+        <instance_id>196360f087f60650912d0f6d0ebb35c7</instance_id>
+        <instance_name>nowlearning-nlinst01798182-0001</instance_name>
+        <name>sys_properties_category_m2m_b3166b64bcb202107f441512f87c4a60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">70e363e0bcb202107f441512f87c4a62</category>
+        <order>300</order>
+        <property display_value="x_cdltd_loaner_req.overdue.remindtime" name="x_cdltd_loaner_req.overdue.remindtime">d7152b20bcb202107f441512f87c4a09</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 03:22:43</sys_created_on>
+        <sys_id>b3166b64bcb202107f441512f87c4a60</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.overdue.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_b3166b64bcb202107f441512f87c4a60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 03:23:19</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>]]></payload>
+        <payload_hash>1120590938</payload_hash>
+        <record_name>x_cdltd_loaner_req.overdue.remindtime.Loaner Request</record_name>
+        <reverted_from/>
+        <source>a85a36309f3602107f4467973524abbb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 18:50:15</sys_created_on>
+        <sys_id>d26aba309f3602107f4467973524ab9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1900dc94ed20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 18:50:15</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>926aba309f36021015e2728e9052d89a</update_guid>
+        <update_guid_history>926aba309f36021015e2728e9052d89a:1120590938</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 19:33:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>2a4c488b319e4d648d11356355a29f10</sys_id>
+        <sys_metadata>b3166b64bcb202107f441512f87c4a60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.overdue.remindtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
+        <sys_scope_delete display_value="">047d4c6d1cc44dbc8081eb0b9ec8e9e4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_b3166b64bcb202107f441512f87c4a60</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_b3166b64bcb202107f441512f87c4a60">d26aba309f3602107f4467973524ab9a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 19:33:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -15,7 +15,7 @@
         <name/>
         <order>800</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>system_properties_ui.do?sysparam_title=Loaner Request Properties&amp;sysparam_category=Loaner Request</query>
+        <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
         <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8d7623a4bcb202107f441512f87c4a4c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
         <sys_update_name>sys_app_module_8d7623a4bcb202107f441512f87c4a4c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-12 03:26:09</sys_updated_on>
+        <sys_updated_on>2024-06-12 20:06:18</sys_updated_on>
         <timeline_page/>
         <title>Properties</title>
         <uncancelable>false</uncancelable>

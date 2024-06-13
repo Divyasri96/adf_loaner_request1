@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
-        <description>Number of hours to wait between overdue reminders.</description>
-        <ignore_cache>true</ignore_cache>
+        <description>Number of hours before a reservation starts to send a reminder to the requester.</description>
+        <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_cdltd_loaner_req.overdue.remindtime</name>
+        <name>x_cdltd_loaner_req.pickup.leadtime</name>
         <read_roles>x_cdltd_loaner_req.admin</read_roles>
-        <suffix>overdue.remindtime</suffix>
+        <suffix>pickup.leadtime</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-12 03:20:23</sys_created_on>
-        <sys_id>d7152b20bcb202107f441512f87c4a09</sys_id>
+        <sys_created_on>2024-06-12 19:45:22</sys_created_on>
+        <sys_id>9ba64ff89f3602107f4467973524abbd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_cdltd_loaner_req.overdue.remindtime</sys_name>
+        <sys_name>x_cdltd_loaner_req.pickup.leadtime</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
-        <sys_update_name>sys_properties_d7152b20bcb202107f441512f87c4a09</sys_update_name>
+        <sys_update_name>sys_properties_9ba64ff89f3602107f4467973524abbd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-12 03:20:23</sys_updated_on>
+        <sys_updated_on>2024-06-12 19:45:22</sys_updated_on>
         <type>integer</type>
         <value>24</value>
         <write_roles>x_cdltd_loaner_req.admin</write_roles>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=d7152b20bcb202107f441512f87c4a09"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=9ba64ff89f3602107f4467973524abbd"/>
 </record_update>

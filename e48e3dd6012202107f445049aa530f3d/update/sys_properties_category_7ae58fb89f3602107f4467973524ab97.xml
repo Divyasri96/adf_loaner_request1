@@ -3,17 +3,17 @@
         <name>Loaner Request</name>
         <sys_class_name>sys_properties_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-12 03:14:12</sys_created_on>
-        <sys_id>70e363e0bcb202107f441512f87c4a62</sys_id>
+        <sys_created_on>2024-06-12 19:43:32</sys_created_on>
+        <sys_id>7ae58fb89f3602107f4467973524ab97</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e48e3dd6012202107f445049aa530f3d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e48e3dd6012202107f445049aa530f3d</sys_scope>
-        <sys_update_name>sys_properties_category_70e363e0bcb202107f441512f87c4a62</sys_update_name>
+        <sys_update_name>sys_properties_category_7ae58fb89f3602107f4467973524ab97</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-12 03:14:12</sys_updated_on>
-        <title><![CDATA[<p><strong><em>Loaner Request Properties</em></strong></p>]]></title>
+        <sys_updated_on>2024-06-12 19:43:32</sys_updated_on>
+        <title><![CDATA[<p><em><strong>Loaner Request Properties</strong></em></p>]]></title>
     </sys_properties_category>
-    <sys_translated_text action="delete_multiple" query="documentkey=70e363e0bcb202107f441512f87c4a62"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=7ae58fb89f3602107f4467973524ab97"/>
 </record_update>
